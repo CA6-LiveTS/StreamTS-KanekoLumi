@@ -1,0 +1,12 @@
+[repo]
+type="LiveTS_repo_v1"
+name="StreamTS-KanekoLumi"
+contact="livets@ca6.dev"
+enabled=1
+
+[channel]
+name="KanekoLumi"
+
+[livets]
+# video ID, LiveTS file
+"",""
