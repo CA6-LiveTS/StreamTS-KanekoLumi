@@ -5,6 +5,9 @@ LiveTs:
 0:09:52 Officer Gloomi
 0:10:02 .Officer Gloomi needs help to catch a criminal
 0:13:23 .List of crimes
+0:35:30 ...Stupid Human Language
+0:35:38 ...Phase Group
 0:37:31 .Description of the criminal
 0:53:18 Ending
 0:54:23 End
+
